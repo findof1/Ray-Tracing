@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/Raytracing.dir/main.cpp.o -o Raytracing.exe -Wl,--out-implib,libRaytracing.dll.a -Wl,--major-image-version,0,--minor-image-version,0
